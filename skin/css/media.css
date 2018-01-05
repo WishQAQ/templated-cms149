@@ -1,0 +1,329 @@
+/* dede58.com 做最好的织梦模板 */
+/* media */
+
+/* 横屏 */
+@media screen and (orientation:landscape) {
+}
+/* 竖屏 */
+@media screen and (orientation:portrait) {
+}
+@media screen and (max-width:1024px) {
+.wrapper {
+	width: 100%;
+	margin: 0 auto;
+}
+.header {
+	height: 100px;
+}
+.navBar {
+	display: none;
+}
+.customer {
+	display: none;
+}
+.banner {
+	height: 400px;
+}
+.banner2 {
+	height: 400px;
+}
+.banner3 {
+	height: 400px;
+}
+.banText2 img {
+	height: 100px;
+}
+.banText2 a {
+	opacity: 10;
+}
+.banText2 a img {
+	height: 30%;
+}
+.listPng {
+	display: block;
+}
+.mainCase, .foot, .mainText, .mainCase, .banText, .linkText ul, .caseInfo {
+	width: 100%
+}
+.banText {
+}
+.banText2 {
+	height: 100%;
+	line-height: 260px;
+}
+.banText4 {
+	width: 400px;
+	line-height: 22px;
+	font-size: 16px;
+}
+.mainCase ul {
+	width: 100%;
+	text-align: center;
+}
+.mainCase li {
+	margin-left: 15px;
+	margin-right: 15px;
+}
+.smallBan li {
+	float: left;
+	width: 33.33%;
+	height: 160px;
+	position: relative;
+	overflow: hidden;
+	text-align: center;
+	cursor: pointer;
+}
+.caseBoxs {
+	width: 100%;
+}
+}
+/* 窗口宽度<1153,设计宽度=1024*/
+@media screen and (max-width:1152px) {
+.banner {
+	height: 610px;
+}
+.caseBoxs {
+	height: 750px;
+}
+.logo img {
+	width: 180px;
+	height: 53px;
+}
+.wrapper {
+	width: 100%;
+	margin: 0 auto;
+}
+.header {
+	height: 100px;
+}
+.navBar {
+	display: none;
+}
+.listPng {
+	display: block;
+}
+.mainCase, .foot, .mainText, .mainCase, .banText, .linkText ul {
+	width: 100%
+}
+.banText {
+	font-size: 24px;
+}
+.mainCase ul {
+	width: 100%;
+	text-align: center;
+}
+.mainCase li {
+}
+.smallBan li {
+	float: left;
+	width: 33.33%;
+	height: 160px;
+	position: relative;
+	overflow: hidden;
+	text-align: center;
+	cursor: pointer;
+}
+.banText p b {
+	display: block;
+	width: 100%;
+}
+.footer {
+	height: auto;
+}
+.footLogo {
+	position: relative;
+}
+.foot .foI {
+	float: none;
+	height: auto;
+	text-align:center;
+}
+.foot .foI a {
+	display: block;
+	width: 100%;
+	padding: 0px;
+	line-height: 36px;
+}
+}
+/* 窗口宽度<960,设计宽度=768 */
+@media screen and (max-width:959px) {
+.banner {
+	height: 880px;
+}
+.caseBoxs {
+	height: 750px;
+}
+.logo img {
+	width: 170px;
+	height: 50px;
+}
+.wrapper {
+	width: 100%;
+	margin: 0 auto;
+}
+.header {
+	height: 100px;
+}
+.navBar {
+	display: none;
+}
+.listPng {
+	display: block;
+}
+.mainCase, .foot, .mainText, .mainCase, .banText, .linkText ul {
+	width: 100%
+}
+.banText {
+	font-size: 24px;
+}
+.mainCase ul {
+	width: 100%;
+	text-align: center;
+}
+.mainCase li {
+}
+.smallBan li {
+	float: left;
+	width: 33.33%;
+	height: 160px;
+	position: relative;
+	overflow: hidden;
+	text-align: center;
+	cursor: pointer;
+}
+.banText p b {
+	display: block;
+	width: 100%;
+}
+.footer {
+	height: auto;
+}
+.footLogo {
+	position: relative;
+}
+.foot .foI {
+	float: none;
+	height: auto;
+	text-align:center;
+}
+.foot .foI a {
+	display: block;
+	width: 100%;
+	padding: 0px;
+	line-height: 36px;
+}
+}
+/* 窗口宽度<768,设计宽度=640 */
+@media screen and (max-width:767px) {
+.banner {
+	height: 300px;
+}
+.caseBoxs {
+	height: 300px;
+}
+.logo img {
+	width: 160px;
+	height: 47px;
+}
+.wrapper {
+	width: 100%;
+	margin: 0 auto;
+}
+.header {
+	height: 100px;
+}
+.navBar {
+	display: none;
+}
+.listPng {
+	display: block;
+}
+.smallBan {
+	display: none;
+}
+.mainCase, .foot, .mainText, .mainCase, .banText, .linkText ul {
+	width: 100%
+}
+.banText {
+	font-size: 24px;
+	text-align: center;
+}
+.mainCase ul {
+	width: 100%;
+	text-align: center;
+}
+.mainCase li {
+	display: block;
+	;
+	margin: 0 auto;
+	margin-bottom: 30px;
+}
+.smallBan li {
+	width: 50%
+}
+.caseBoxs {
+	width: 100%;
+}
+.mainCase {
+ text-align:
+}
+.linkText li {
+	width: 100%;
+	margin-bottom: 30px;
+}
+.linkText h4 {
+	font-size: 24px;
+	line-height: 18px;
+	margin-bottom: 30px;
+}
+.heBox h4 {
+	font-size: 18px;
+}
+}
+/* 窗口宽度<640,设计宽度=480 */
+@media screen and (max-width:639px) {
+}
+/* 窗口宽度<480,设计宽度=320 */
+@media screen and (max-width:479px) {
+.mainCase {
+	text-align: center;
+}
+.mainText h3 {
+	font-size: 20px;
+	margin-bottom: 20px;
+	margin-top: 60px;
+}
+.mainText p {
+	font-size: 12px;
+	line-height: 20px
+}
+.banText4 {
+	width: 260px;
+	padding-top: 0px;
+	line-height: 22px;
+	font-size: 16px;
+}
+.banText p b {
+	font-size: 18px;
+	line-height: 30px;
+}
+.banText span {
+	font-size: 12px;
+}
+.linkText h4 {
+	font-size: 14px;
+}
+.linkText span {
+	margin-bottom: 10px;
+	font-size: 12px;
+}
+.linkIndex {
+	padding: 40px 0px 20px;
+}
+}
+/* windows UI 贴靠 */
+@media screen and (-ms-view-state:snapped) {
+}
+/* 打印 */
+@media print {
+}

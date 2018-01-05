@@ -1,0 +1,80 @@
+/* dede58.com 做最好的织梦模板 */
+/*页面主体框架样式
+------------------------------------------------------*/
+body {
+	font-family: "Microsoft YaHei", "微软雅黑";
+	font-size: 14px;
+}
+a {
+	color: #3a4046
+}
+.error {
+	color: red;
+}
+/*页面常用样式
+------------------------------------------------------*/
+
+/* 常用字体尺寸 */
+.f14 {
+	font-size: 14px;
+}
+.f15 {
+	font-size: 15px;
+}
+.f16 {
+	font-size: 16px;
+}
+.f17 {
+	font-size: 17px;
+}
+.f18 {
+	font-size: 18px;
+}
+/* 文字对齐样式 */
+.tl {
+	text-align:left
+}
+.tc {
+	text-align:center
+}
+.tr {
+	text-align:right
+}
+/* 常用文字颜色 */
+.fRed {
+	color: #F00
+}
+.fBlack {
+	color:#000
+}
+.fGreen {
+	color:#0F0
+}
+.fBlue {
+	color:#00F
+}
+/* 背景高亮 */
+.highlight {
+	background: #f7f7f9
+}
+.bRadius {
+	border: 1px solid #ddd;
+	border-radius: 4px;
+}
+.clearMargin {
+	margin: 0;
+	padding: 0;
+}
+/*浮动*/
+.fl {
+	float: left;
+}
+.fr {
+	float: right;
+}
+.clear {
+	clear: both;
+}
+.bol {
+	border-left: 1px solid #ddd
+}

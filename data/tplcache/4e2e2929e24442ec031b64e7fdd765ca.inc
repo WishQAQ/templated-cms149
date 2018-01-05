@@ -1,0 +1,1 @@
+<a href="[field:typelink/]"><b>查看我们的作品</b><span style="display: block;"></span></a>

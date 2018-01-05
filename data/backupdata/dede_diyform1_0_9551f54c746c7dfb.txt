@@ -1,0 +1,2 @@
+INSERT INTO `dede_diyform1` VALUES('1','0','침와걸','침와걸','침와걸','침와걸');
+INSERT INTO `dede_diyform1` VALUES('2','0','www.moke8.com','www.moke8.com','www.moke8.com','www.moke8.com');

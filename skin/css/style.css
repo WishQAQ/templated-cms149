@@ -1,0 +1,137 @@
+/* dede58.com 做最好的织梦模板 */
+* {
+	border:0;
+	margin:0;
+	padding:0;
+}
+body {
+	background:#fff;
+	font-family:"Microsoft YaHei", "微软雅黑";
+	margin:0 auto;
+	font-size:14px
+}
+ul {
+	display:block;
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+li {
+	display:block;
+	margin:0;
+	padding:0;
+	list-style: none;
+}
+img {
+	border:0;
+}
+dl, dt, dd, span {
+	margin:0;
+	padding:0;
+	display:block;
+}
+a, a:focus {
+	text-decoration:none;
+	color:#3a4046;
+	outline:none;
+blr:expression(this.onFocus=this.blur());
+}
+a:hover {
+	color:#7B5A47;
+	text-decoration:none;
+}
+table {
+	border-collapse:collapse;
+	border-spacing: 0;
+}
+cite {
+	font-style:normal;
+}
+h2 {
+	font-weight:normal;
+}
+::-moz-selection {
+color:#fff;
+color:rgba(255,255,255,0.85);
+background:#489F98;
+}
+::selection {
+	color:#fff;
+	color:rgba(255,255,255,0.85);
+	background:#489F98;
+}
+article, aside, dialog, footer, header, section, footer, nav, figure, menu {
+	display:block
+}
+h2 {
+	font-size:14px
+}
+/*gotop*/
+.cbbfixed {
+	position: fixed;
+	right: 10px;
+	transition: bottom ease .3s;
+	bottom: -85px;
+	z-index: 3;
+	cursor:pointer;
+}
+.cbbfixed .cbbtn {
+	width: 40px;
+	height: 40px;
+	display: block;
+	background-color: #489F98;
+}
+.cbbfixed .gotop {
+	transition: background-color ease .3s;
+	margin-top: 1px;
+}
+.cbbfixed .gotop .up-icon {
+	float:left;
+	margin:14px 0 0 9px;
+	width:23px;
+	height:12px;
+	background: url(../images/top-icon.png);
+}
+.cbbfixed .gotop:hover {
+	background-color:#2c2d2e;
+}
+.dede_pages {
+	clear:both;
+}
+.dede_pages ul {
+	float:left;
+	padding:12px 0px 12px 16px;
+}
+.dede_pages ul li {
+	float:left;
+	font-family:Tahoma;
+	line-height:17px;
+	margin-right:6px;
+	border:1px solid #74b2ad;
+	padding: 2px 4px 2px;
+}
+.dede_pages ul li a {
+	float:left;
+	padding:2px 4px 2px;
+	color:#555;
+	display:block;
+}
+.dede_pages ul li a:hover {
+	color:#74b2ad;
+	text-decoration:none;
+	padding:2px 4px 2px;
+}
+.dede_pages ul li.thisclass, .dede_pages ul li.thisclass a, .pagebox ul li.thisclass a:hover {
+	background-color:#F8F8F8;
+	padding:2px 4px 2px;
+	font-weight:bold;
+}
+.dede_pages .pageinfo {
+	line-height:21px;
+	color:#999;
+}
+.dede_pages .pageinfo strong {
+	color:#555;
+	font-weight:normal;
+	margin:0px 2px;
+}
